@@ -1,0 +1,10 @@
+Hero image
+Path: dist/static/barooj/images/ash-hero.png
+Generated with the built-in Imagegen tool for this design.
+Prompt: Use case: photorealistic-natural. Asset type: restaurant website hero photograph, landscape 3:2. A beautiful large rustic dark ceramic bowl of authentic Iranian ash reshteh soup, thick green herb and noodle soup with chickpeas and beans, topped with elegant white kashk swirls, golden caramelized onions and dried mint oil. Three quarter overhead food photography, bowl centered and filling most of frame, subtle steam rising, dramatic warm directional studio lighting from upper left. Dark charcoal stone tabletop, a few parsley leaves and a brass spoon near edge. Deep black background and warm gold highlights, appetizing true food texture. Editorial luxury Persian food photography, no text, no letters, no watermark, no people.
+
+Font: Vazirmatn, version 33.003, by Saber Rastikerdar.
+Source: https://github.com/rastikerdar/vazirmatn
+License: SIL Open Font License 1.1 (OFL.txt).
+
+Other menu images: CSS illustrations, labelled in the interface.
